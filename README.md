@@ -15,8 +15,6 @@ Hi, I'm MOHD LIYAQATH QURESHI ! 👋<br>I am a Computer Science Engineering stud
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gokublack81790-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gokublack81790-ops&icon=0&color=0)](https://visitcount.itsvg.in)
